@@ -1,1 +1,3 @@
 # ExpenseTrackerIOSApp
+
+## This PROJECT USES CHART AND REMOTE API CALLS 
